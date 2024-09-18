@@ -6,3 +6,6 @@ resultado = (nome == 'Jair' and idade_ == 18)
 if(resultado):
     print(resultado)
 
+
+
+print("hello world")
